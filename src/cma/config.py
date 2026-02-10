@@ -1,0 +1,10 @@
+# CMA-ES experimental configuration
+
+MAX_GENERATIONS = 50
+NUM_GAMES = 10
+
+REEVAL_INTERVAL = 5
+REEVAL_GAMES = 30
+
+SIGMA = 0.3
+SEED = 42

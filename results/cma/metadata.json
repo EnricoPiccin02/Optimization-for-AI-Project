@@ -1,0 +1,12 @@
+{
+    "algorithm": "CMA-ES",
+    "parameters": {
+        "sigma": 0.3,
+        "popsize": 11,
+        "max_generations": 50,
+        "seed": 42,
+        "num_games_per_fitness": 10,
+        "reeval_interval": 5,
+        "reeval_games": 30
+    }
+}
